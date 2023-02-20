@@ -7,6 +7,4 @@ One of the key features of the website was the inclusion of a picture of the ind
 To ensure the project met the guidelines, the website was written entirely by hand using HTML and CSS. The use of any HTML/CSS code generators was prohibited. The successful completion of this project earned me a score of 100%. The project demonstrated my proficiency in HTML and CSS, as well as my ability to create a visually appealing and functional website.
 
  
-[[file:///Users/cmx/Desktop/Comp%20sci%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Y1/CM1102/COURSEWORK%201/C2103757_PART1/index.html
-]](url)
 
