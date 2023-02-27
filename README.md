@@ -1,4 +1,4 @@
-# Static-Website-on-Charles-Babbage<img width="1280" alt="Screenshot 2023-02-27 at 18 47 42" src="https://user-images.githubusercontent.com/125923783/221655186-52ff1ffa-c47c-43e0-b2e8-5a29c16c3174.png">
+# Static-Website-on-Charles-Babbage
 
 
 The project I completed in my Year 1 of university involved creating a static website using HTML and CSS. The aim was to create a website dedicated to an aspect of the history of computing and the internet, which would feature three web pages. Each web page was dedicated to an important individual or technology that played a central role in the development of computers or the internet.
